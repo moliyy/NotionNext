@@ -20,7 +20,7 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '绮梦博客',
   HEO_HERO_TITLE_2: '分享好康的',
-  HEO_HERO_TITLE_3: 'https://notion-next-87ux.vercel.app/',
+  HEO_HERO_TITLE_3: '',
   HEO_HERO_TITLE_4: '新版上线',
   HEO_HERO_TITLE_5: 'NotionNext4.0 ',
   HEO_HERO_TITLE_LINK: 'https://notion-next-87ux.vercel.app/',
